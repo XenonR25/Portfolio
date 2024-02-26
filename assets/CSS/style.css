@@ -18,7 +18,10 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     box-sizing: border-box;
 }
-
+a{
+    text-decoration: none;
+    color: #272d27;
+}
 html{
     scroll-behavior: smooth;
 }
@@ -57,6 +60,7 @@ html{
 i{
     font-size: 20px;
 }
+
 
 /* ========== MAIN =========*/
 body{
